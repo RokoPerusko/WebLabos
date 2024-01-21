@@ -1,4 +1,6 @@
-# WebLabos
+# Labos ReadMe
 
-Ovo je zadatak iz labaratorijske vjezbe 4 \n
-Izradio Roko Peruško
+**Izradio:** Roko Perusko
+
+## 4. Laboratorijska iz UPW-a
+## Uzeti u obzir da je labos rađen na windowsu u lokalnom virtualnom okruzenju
