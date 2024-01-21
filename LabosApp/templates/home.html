@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Početna Stranica</title>
+</head>
+<body>
+    <h1>Početna Stranica</h1>
+    <p>Ovo su modeli koje sam napravio:</p>
+    <ul>
+        {% for model in models %}
+            <li>{{ model }}</li>
+        {% endfor %}
+    </ul>
+</body>
+</html>
